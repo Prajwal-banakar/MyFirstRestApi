@@ -1,4 +1,4 @@
-package com.Spring.RestApi;
+package com.Spring.springbootapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
